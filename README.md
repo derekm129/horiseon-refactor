@@ -16,8 +16,7 @@ This webpage serves as the main page for Horiseon Social Solution Services, Inc.
 
     ```md
     ![1st screenshot](./Develop/assets/images/screenshot1.png)
-    ```
-      ```md
+   
     ![2nd screenshot](./Develop/assets/images/screenshot2.png)
     ```
 
