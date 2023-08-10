@@ -14,12 +14,11 @@ N/A
 
 This webpage serves as the main page for Horiseon Social Solution Services, Inc. It informs people what services Horiseon offers.
 
-    ```md
-    ![1st screenshot](./Develop/assets/images/screenshot1.png)
-    ```
-      ```md
-    ![2nd screenshot](./Develop/assets/images/screenshot2.png)
-    ```
+    
+![Top half of page.](./Develop/assets/images/screenshot1.png)
+
+![Bottom half of page.](./Develop/assets/images/screenshot2.png)
+    
 
 ## Credits
 
