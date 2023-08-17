@@ -17,6 +17,8 @@ This webpage serves as the main page for Horiseon Social Solution Services, Inc.
 ![Top half of page.](./Develop/assets/images/screenshot1.png)
 
 ![Bottom half of page.](./Develop/assets/images/screenshot2.png)
+
+https://derekm129.github.io/horiseon-refactor/
     
 ## Credits
 
